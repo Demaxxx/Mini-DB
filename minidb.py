@@ -2,7 +2,7 @@ import os
 import struct
 
 # --- configurações fixas do BD ---
-PAGE_SIZE = 4096      
+PAGE_SIZE = 4096    
 HEADER_SIZE = 16      
 RECORD_SIZE = 8       
 MAGICO = 1234567890   
